@@ -1,8 +1,8 @@
 ###Top Three Favorite Books
 
 1. The book thief 
-  - Fiction
+  * Fiction
 2. Patient Zero 
-  - Fiction
+  * Fiction
 3. The Great Gastby
-  - Fiction
+  * Fiction
