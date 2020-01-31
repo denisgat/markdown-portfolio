@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Has keen ability to **visualize** a project in its entirety then catagorize the project into smaller more **managable** tasks in order to accomplish the goals within a certain deadline. Skilled with automobiles and communicating sales contracts.*
